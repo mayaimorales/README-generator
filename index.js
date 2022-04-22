@@ -57,8 +57,8 @@ inquirer
         \n## Usage
         \n${inputObj.usage}
         \n## Credits
-        \n${inputObj.github}
-        \n${inputObj.linkedin}
+        \n GitHub: ${inputObj.github}
+        \n LinkedIn: ${inputObj.linkedin}
         \n## License
         \nLicensed under the MIT License
         \n## Badges
