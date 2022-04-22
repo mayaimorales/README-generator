@@ -72,7 +72,7 @@ inquirer
                 if(err){
                     throw err;
                 }else{
-                    console.log('Yay!');
+                    console.log('Yay! Your README is ready!');
                 }
             })
         }}
